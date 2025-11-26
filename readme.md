@@ -106,6 +106,6 @@ This project is licensed under the **MIT License**.
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ## 📬 Contact
-For any questions or issues, reach out via [GitHub Issues](https://github.com/ish-war/voyage_analysis-Integrating-MLOps-in-Travel/issues).
+For any questions or issues, reach out via [GitHub Issues](https://github.com/yadavkumarpankaj/voyage_analysis-Integrating-MLOps-in-Travel).
 
 
